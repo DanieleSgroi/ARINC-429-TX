@@ -2,7 +2,7 @@
 
 Arduino based ARINC 429 Transmitter
 
-#DESCRIPTION 
+# DESCRIPTION 
 
 This sketch demonstrates transmission of ARINC 429 data with an Arduino Pro Mini clocked at 16 MHz. 
 
